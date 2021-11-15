@@ -1,4 +1,4 @@
-package io.github.minecraftcursedlegacy.example.mixin;
+package io.github.minecraftcursedlegacy.universalregistries.mixin;
 
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
